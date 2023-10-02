@@ -1281,3 +1281,6 @@ Use any config what you like.
 **Q. What about lovelace card with support 2-way audio?**
 
 At this moment I am focused on improving stability and adding new features to **go2rtc**. Maybe someone could write such a card themselves. It's not difficult, I have [some sketches](https://github.com/AlexxIT/go2rtc/blob/master/www/webrtc.html).
+
+
+dckr_pat_FD3aDqhUVMtBA_3BG3tOIR602xY
