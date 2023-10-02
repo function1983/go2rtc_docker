@@ -2,11 +2,11 @@ name: Build and Push
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - 'master'
-    tags:
-      - 'v*'
+  # push:
+  #   branches:
+  #     - 'master'
+  #   tags:
+  #     - 'v*'
 
 jobs:
   build-binaries:
